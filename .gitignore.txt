@@ -1,3 +1,0 @@
-.\DesignPatterns\bin\*
-.\DesignPatterns\obj\*
-.vs\*
